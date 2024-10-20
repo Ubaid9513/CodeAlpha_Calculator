@@ -1,0 +1,54 @@
+body {
+    background-color: #ecf0f3;
+  }
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline #000;
+    color: rgb(79, 79, 79);
+  }
+  .container {
+    width: 230px;
+    background-color: #333435;
+    margin: 60px auto 0px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px 0px;
+    box-shadow: inset 5px 5px 12px #7f8488, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  }
+  #input {
+    width: 80%;
+    height: 40px;
+    background-color: #ecf0f3;
+    border: none;
+    border-radius: 50px;
+    margin: 20px 0px 10px;
+    padding: 0px 10px;
+    font-size: 20px;
+    outline: none;
+    box-shadow: inset 5px 5px 12px #7f8488, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  }
+  .btn {
+    width: 36px;
+    height: 34px;
+    border-radius: 50px;
+    margin: 5px;
+    font-weight: bold;
+    border: none;
+    background-color: #b3b4b4;
+    box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+    cursor: pointer;
+  }
+  .equalBtn {
+    width: 84px;
+    height: 35px;
+    border-radius: 50px;
+    margin: 5px;
+    font-weight: bold;
+    border: none;
+    background-color: #ecf0f3;
+    box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+    cursor: pointer;
+  }
+  
